@@ -11,3 +11,5 @@ Note: Make sure you have installed native code dependencies [here](https://react
     1. Press  `a`  to view on Android Virtual Device or follow the instructions [here](https://docs.expo.dev/workflow/run-on-device/) to run on a physical device.
 6.If you want to run on your device make sure to dowland expo app.
 Note : Android studio should be downloaded and you need to setup its virtual device.
+7.Node modules will be downloaded as you install npm.
+##The other supporting assests and modules are provided in drive link:https://drive.google.com/drive/folders/11tOFvHmAeCb-I2x7JkOOqmSvnpm_L-L3?usp=sharing
